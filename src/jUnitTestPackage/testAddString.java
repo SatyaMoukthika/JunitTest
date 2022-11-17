@@ -6,6 +6,7 @@ import org.junit.Test;
 
 public class testAddString {
 
+	
 	@Test
 	public void test() {
 		jUnitFunction junitstr = new jUnitFunction();
